@@ -1,0 +1,14 @@
+Models/Product.java
+ Models.Product
+Daos/ConnectionSql.java
+ Daos.ConnectionSql
+Services/ProductService.java
+ Services.ProductService
+Daos/ProductDao.java
+ Daos.ProductDao
+Cotrollers/ProductServlet.java
+ Cotrollers.ProductServlet
+Cotrollers/ProductDetailsServlet.java
+ Cotrollers.ProductDetailsServlet
+Cotrollers/ProductGridServlet.java
+ Cotrollers.ProductGridServlet
